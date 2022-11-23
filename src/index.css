@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap");
+
+body{
+  
+  background-color:honeydew !important;
+  
+}
+.contact-img{
+  width:200px;
+  height:200px;
+  
+}
+*{
+  font-family: 'Times New Roman', Times, serif;
+}
